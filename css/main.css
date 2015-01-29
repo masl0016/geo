@@ -1,0 +1,14 @@
+#output{
+    float: left;
+    margin-right: 10%;
+}
+
+#myCanvas{
+    float: left;
+    text-align: center;
+}
+
+body{
+    color: white;
+    background-color: black;
+}
